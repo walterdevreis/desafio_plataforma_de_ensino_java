@@ -15,6 +15,7 @@ public class Program {
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+		
 		List<Lesson> lesson = new ArrayList<>();
 		
 		System.out.print("Quantas aulas tem o curso? ");
@@ -55,5 +56,4 @@ public class Program {
 		
 		sc.close();
 	}
-
 }

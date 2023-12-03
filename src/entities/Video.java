@@ -35,5 +35,4 @@ public class Video extends Lesson {
 	public Integer duration() {
 		return seconds;
 	}
-
 }

@@ -20,5 +20,4 @@ public abstract class Lesson {
 	}
 	
 	public abstract Integer duration();
-
 }
